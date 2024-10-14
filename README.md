@@ -3,9 +3,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/utkarshsingx?label=Follow)](https://twitter.com/intent/follow?screen_name=utkarshsingx)
 [![Linkedin: Utkarsh](https://img.shields.io/badge/-Utkarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/utkarsh-singh-0b9090227/)](https://www.linkedin.com/in/utkarsh-singh-0b9090227/)
 ![GitHub followers](https://img.shields.io/github/followers/utkarshsingx?label=Follow&style=social)
+
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=backupsingx&color=brightgreen"> 
 
-![utkgithub.png](https://github.com/backupsingx/backupsingx/assets/92610758/c9aca1d9-7fa1-4290-93c3-f4d12267a83a)
+![utkgithub](https://github.com/user-attachments/assets/67e8442d-069f-47d5-b062-fc9e9e47204e)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
