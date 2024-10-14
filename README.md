@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/utkarshsingx?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=backupsingx&color=brightgreen"> 
 
-![Utkarsh Singh-3](https://github.com/backupsingx/backupsingx/assets/92610758/c9aca1d9-7fa1-4290-93c3-f4d12267a83a)
+![utkgithub.png](https://github.com/backupsingx/backupsingx/assets/92610758/c9aca1d9-7fa1-4290-93c3-f4d12267a83a)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
