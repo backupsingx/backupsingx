@@ -9,19 +9,19 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<img alt="Night Coding" src="https://github.com/utkarshsingx/utkarshsingx/assets/92610758/e7ed4589-4135-47b2-9129-664da4bacb30" align="right" width="250" height="200" />
+<img alt="Night Coding" src="https://github.com/backupsingx/backupsingx/assets/92610758/e7ed4589-4135-47b2-9129-664da4bacb30" align="right" width="250" height="200" />
 
 🎓 &nbsp;I'm currently studying Computer Science Engineering at Galgotias College of Engineering and Technology, Greater Noida.\
 💡 &nbsp;Some technologies I enjoy working with include Photoshop, Adobe Illustrator, Indesign and XD. Currently exploring UI/UX.\
 🌱 &nbsp;I'm on track for learning more about ReactJS, JavaScript, NodeJS and ExpressJS, Competitive Programming, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at [Utkarsh](mailto:hauntedutkarsh@gmail.com). I'll try to respond as soon as I can!
+✉️ &nbsp;You can shoot me an email at [Utkarsh](mailto:ultimatetuut@gmail.com). I'll try to respond as soon as I can!
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=utkarshsingx&theme=shadow-brown&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=832AEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=backupsingx&theme=shadow-brown&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&fire=832AEB)](https://git.io/streak-stats)
 
   
 ## Watch my contributions get eaten by a snake 🐍
 
-<img src="https://raw.githubusercontent.com/utkarshsingx/utkarshsingx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/backupsingx/backupsingx/output/snake.svg" alt="Snake animation" />
 
 
